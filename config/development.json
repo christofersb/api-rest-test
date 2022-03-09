@@ -1,0 +1,8 @@
+{
+    "nombre": "API Rest Express - Usuarios y cursos",
+    "configDB": {},
+    "configToken": {
+        "SEED": "secret",
+        "expiration": "24h"
+    }
+}
